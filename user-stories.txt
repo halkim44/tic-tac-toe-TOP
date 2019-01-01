@@ -1,0 +1,24 @@
+
+
+
+## as a player i want a game board interface so that i can choose on where to put my mark and review the game status while.
+    # see a 3 x 3 square grid
+    # click on square to place mark
+    # square not clickable once marked
+    # see the mark from both players during the game
+
+## as a player i want to be able to win or lose while playing the game so that me and my opponent can compete to become the best.
+    # see the indication for winning/losing
+    # see who won
+
+## as a player i want to be able to choose whether to play with human or the computer so that i can test my skill on both.
+    # a player vs player mode
+    # player vs computer mode
+
+## as a player i want to be able to play multiple round so that me and my opponent can view who score the most.
+    # start playing again after a winner is decided
+    # see a scoreboard
+    # see how many round played
+
+## as a player i want to be able to reset the game so i can start anew for when for instance im changing my opponent.
+    # click to reset all stats
