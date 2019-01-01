@@ -12,8 +12,9 @@
     # see who won
 
 ## as a player i want to be able to choose whether to play with human or the computer so that i can test my skill on both.
-    # a player vs player mode
-    # player vs computer mode
+    # prompted to choose game mode when initializing game
+    # see a player vs player mode
+    # see player vs computer mode
 
 ## as a player i want to be able to play multiple round so that me and my opponent can view who score the most.
     # start playing again after a winner is decided
