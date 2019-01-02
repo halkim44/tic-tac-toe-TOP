@@ -8,7 +8,7 @@
     # see the mark from both players during the game
 
 ## as a player i want to be able to win or lose while playing the game so that me and my opponent can compete to become the best.
-    # see the indication for winning/losing
+    # see three in a row as indication for winning
     # see who won
 
 ## as a player i want to be able to choose whether to play with human or the computer so that i can test my skill on both.
