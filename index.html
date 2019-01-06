@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <title>play tic tac toe !</title>
+  <link rel="stylesheet" type="text/css" href="styles.css" />
+</head>
+
+<body>
+  <div class="name-query-window">
+    <h2>enter players name and press 'Enter'.</h2>
+    <p class="icon-x">
+      <label for="p-name-x"></label>
+      <input type="text" id="p-name-x">
+    </p>
+    <p class="icon-o">
+      <label for="p-name-o"></label>
+      <input type="text" id="p-name-o">
+    </p>
+  </div>
+
+  <h1>Tic-tac-toe<span>.</span></h1>
+  <div class="flex-cont">
+    <div class="board-container">
+      <div class="main-gameboard">
+        <div class="item tiles" data-column="0"></div>
+        <div class="item tiles" data-column="1"></div>
+        <div class="item tiles" data-column="2"></div>
+        <div class="item tiles" data-column="3"></div>
+        <div class="item tiles" data-column="4"></div>
+        <div class="item tiles" data-column="5"></div>
+        <div class="item tiles" data-column="6"></div>
+        <div class="item tiles" data-column="7"></div>
+        <div class="item tiles" data-column="8"></div>
+      </div>
+    </div>
+    
+      <div class="player-score-container">
+        <h3 id="player-X-name"></h3>
+        <span id="player-X-score">0</span>
+      </div>
+      <div class="player-score-container">
+        <h3 id="player-O-name"></h3>
+        <span id="player-O-score">0</span>
+      </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
